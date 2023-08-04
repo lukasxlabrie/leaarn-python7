@@ -1,5 +1,5 @@
 #lines 1 and 3 are basic print commands
-print('Mary had a little lamb'.)
+print('Mary had a little lamb.')
 #This line is an F string which I have re written another was below the .format
 print("Its fleece was white as {}.".format('snow'))
 #option2 = 'snow'
