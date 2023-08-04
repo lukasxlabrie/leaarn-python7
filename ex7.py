@@ -8,7 +8,7 @@ print("Its fleece was white as {}.".format('snow'))
 print ("And everywhere that Mary went.")
 print("." * 10) #What'd that do? this tells the program to print 10 '.'
 #these are all var
-end1 ="C
+end1 = "C"
 end2 = "h"
 end3 = "e"
 end4 = "e"
